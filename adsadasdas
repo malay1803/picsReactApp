@@ -1,0 +1,29 @@
+[33mcommit 9608bef217f086ec3407783cd75267d0c45a7cdc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: malay1803 <18acharyamalay@gmail.com>
+Date:   Thu Jun 10 22:47:58 2021 +0530
+
+    added style to search bar
+
+[33mcommit ed484246c93f4de6aa4018170bbee75ca53cf1d3[m
+Author: malay1803 <18acharyamalay@gmail.com>
+Date:   Thu Jun 10 22:39:04 2021 +0530
+
+    created and added SearchBar component to app.js
+
+[33mcommit 318ce229c8c3e9fe1a66bf60d2d74b2bb7e4ce25[m
+Author: malay1803 <18acharyamalay@gmail.com>
+Date:   Thu Jun 10 22:28:56 2021 +0530
+
+    created and imported App.js component in index.js
+
+[33mcommit 214f636dd5f613bf5690a2ce33101b3e6cdb33b0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: malay1803 <18acharyamalay@gmail.com>
+Date:   Thu Jun 10 16:47:05 2021 +0530
+
+    created react app
+
+[33mcommit 9d862647429396a94ca6f769d521034bcae5955c[m
+Author: malay1803 <18acharyamalay@gmail.com>
+Date:   Thu Jun 10 16:44:39 2021 +0530
+
+    Initialize project using Create React App
